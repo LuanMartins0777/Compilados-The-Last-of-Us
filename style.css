@@ -1,0 +1,27 @@
+h1 {
+    color: #ffffff;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0 auto;
+    max-width: 1120px;
+    background: linear-gradient(150deg, #000000, #5a0101e3);
+    background-size: 120% 110%;
+}
+
+h2 {
+    color: #ffffff;
+    margin: 5px;
+    padding: 10px;
+    border: solid 10px none;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+    box-sizing: border-box;
+}
